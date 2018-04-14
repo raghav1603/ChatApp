@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="edit1">Enter Email</string>
+    <string name="pass1">Enter Password</string>
+    <string name="button1">Sign in</string>
+    <string name="signup">Sign up</string>
+    <string name="name">Enter Name</string>
+    <string name="create">Create my account</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+</resources>
